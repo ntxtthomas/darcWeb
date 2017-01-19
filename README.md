@@ -60,7 +60,7 @@ users
 - [ ] allows user to view user account
 	- user info
 	- order history
-- race results history
+	- race results history
 - [ ] allows user to renew membership
 - [ ] allows user to register for race(s)
 - [ ] allows user to comment on posts
@@ -127,7 +127,7 @@ https://reactioncommerce.com/
 - [ ] Stripe
 - [ ] confirmation email
 - [ ] shipment email 
-- [ ] Social ecommerce (Like,Share & comment)
+- [ ] Social ecommerce (Like, Share & comment)
 - [ ] Coupon code (member discount)
 - [ ] Mobile app
 
