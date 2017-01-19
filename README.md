@@ -8,30 +8,35 @@ Denton Area Running Club
 PURPOSE
 ==================================================================
 - to promote awareness
-- to add creditability
+- to foster a sense of community
+- to add credibility
 - to allow more efficient functionality
 - to allow for eCommerce
 - to allow for data capture
 - to increase race registration
 - to increase membership 
 - to make it easier to verify membership
-- to allow members to check their account
+- to allow members to have a stake in the website
+- to make the internet great again
 
 
 ==================================================================
 FEATURES
 ==================================================================
 
-- [ ] event driven landing pages 
-- [ ] mailchimp integration
-- [ ] gravatar
-- [ ] Updated Google site verification
-- [ ] implement Google Adwords
-- [ ] ecommerce for shirts, pint glasses, hats, running swag, memberships
-- [ ] stripe.js for membership and race registration
+- [ ] Mailchimp
+- [ ] Gravatar
 - [ ] SEO
+- [ ] Google Site Verification
+- [ ] Google Adwords
+- [ ] Google Analytics
+- [ ] event driven landing pages
+- [ ] ecommerce for product, races, memberships
+- [ ] stripe.js
 - [ ] Social media links
 - [ ] Social media partials
+- [ ] Blog / vlog / photo 
+- [ ] CMS
 
 ==================================================================
 FUNCTIONALITY
@@ -53,8 +58,8 @@ consider Keystone.JS (CMS)
 
 users
 - [ ] allows user to view user account
-- user info
-- order history
+	- user info
+	- order history
 - race results history
 - [ ] allows user to renew membership
 - [ ] allows user to register for race(s)
